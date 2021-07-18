@@ -3,6 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,windows,macos,linux,firebase
 
 ### Firebase ###
+serviceAccountKey.json
 .idea
 **/node_modules/*
 **/.firebaserc
